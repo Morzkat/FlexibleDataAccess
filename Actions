@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+  <book id="chronicles of ridick.xml">
+    <Title>chronicles of ridick.xml</Title>
+    <Author>me</Author>
+    <Gender>action</Gender>
+    <Published>1895</Published>
+  </book>
+</Books>

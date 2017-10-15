@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+  <book id="sads" nameSpace="sads">
+    <Title>sads</Title>
+    <Author>aaaaaa</Author>
+    <Gender>sddddddddd</Gender>
+    <Published>wwwwww</Published>
+  </book>
+  <book id="wwwsads">
+    <Title>wwwsads</Title>
+    <Author>aaaaaa</Author>
+    <Gender>sddddddddd</Gender>
+    <Published>wwwwww</Published>
+  </book>
+  <aa>
+    <Author>sss</Author>
+    <Gender>ddddd</Gender>
+    <Published>fffffff</Published>
+  </aa>
+</Books>
