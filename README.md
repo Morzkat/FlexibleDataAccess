@@ -1,2 +1,2 @@
 # Flexible Data Access
-# Blog System A simple blog system using the design pattern Observer in Java
+# A simple Data Access system using the design pattern Decorator in Java
